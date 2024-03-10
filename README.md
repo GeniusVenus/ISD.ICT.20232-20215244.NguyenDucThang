@@ -1,5 +1,5 @@
-# LAB 01 - Requirement Analysis
+# LAB 02 - Use Case Specification
 
 ## Task
 
-Use case diagram and outline for all use cases in AIMS project.
+Use case specification for three use cases: "Place Order", "Pay Order", "Rush Order"
