@@ -1,5 +1,5 @@
-# LAB 02 - Use Case Specification
+# LAB 03 - Software requirement specification
 
 ## Task
 
-Use case specification for three use cases: "Place Order", "Pay Order", "Rush Order"
+Complete the Software Requirement Specification for the AIMS Project
