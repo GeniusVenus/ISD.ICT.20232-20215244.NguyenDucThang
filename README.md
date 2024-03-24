@@ -1,5 +1,5 @@
-# LAB 03 - Software requirement specification
+# LAB 04 - Sequence Diagram
 
 ## Task
 
-Complete the Software Requirement Specification for the AIMS Project
+Draw sequence diagrams for "Place Order", "Pay Order", "Place Rush Order" use cases
