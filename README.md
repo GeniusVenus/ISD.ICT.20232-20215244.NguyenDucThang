@@ -1,6 +1,7 @@
-# LAB 05 - Use case Analysis
+# LAB 06 - Graphical Interface Design
 
 ## Task
 
-- Communication and Class diagrams for "Place Order", "Pay Order", "Place Rush Order" use cases
-- Merged class diagram of 3 use cases
+- All screens for "Place Order" and "Place Rush Order" use cases
+- Screen Configuration text file
+- Screen Transition Diagram + Screen Specification
